@@ -206,7 +206,7 @@ data:extend({
         energy_required = 120,
         ingredients = {
             {type = "item", name = "ei_uranium-235-fuel", amount = 1},
-            {type = "fluid", name = "water", amount = 2*300000},
+            {type = "fluid", name = "water", amount = 2*30000},
         },
         results = {
             {type = "item", name = "ei_used-uranium-235-fuel", amount = 1},
@@ -226,7 +226,7 @@ data:extend({
         energy_required = 120,
         ingredients = {
             {type = "item", name = "ei_uranium-233-fuel", amount = 1},
-            {type = "fluid", name = "water", amount = 2*200000},
+            {type = "fluid", name = "water", amount = 2*20000},
         },
         results = {
             {type = "item", name = "ei_used-uranium-233-fuel", amount = 1},
@@ -246,7 +246,7 @@ data:extend({
         energy_required = 120,
         ingredients = {
             {type = "item", name = "ei_plutonium-239-fuel", amount = 1},
-            {type = "fluid", name = "water", amount = 2*350000},
+            {type = "fluid", name = "water", amount = 2*35000},
         },
         results = {
             {type = "item", name = "ei_used-plutonium-239-fuel", amount = 1},
@@ -266,7 +266,7 @@ data:extend({
         energy_required = 120,
         ingredients = {
             {type = "item", name = "ei_thorium-232-fuel", amount = 1},
-            {type = "fluid", name = "water", amount = 2*150000},
+            {type = "fluid", name = "water", amount = 2*15000},
         },
         results = {
             {type = "item", name = "ei_used-thorium-232-fuel", amount = 1},

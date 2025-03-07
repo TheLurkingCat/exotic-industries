@@ -183,7 +183,7 @@ data:extend({
         energy_required = 1,
         ingredients = {
             {type = "fluid", name = "ei_hot-coolant", amount = 25},
-            {type = "fluid", name = "water", amount = 100},
+            {type = "fluid", name = "water", amount = 10},
         },
         results = {
             {type = "fluid", name = "ei_cold-coolant", amount = 25},
